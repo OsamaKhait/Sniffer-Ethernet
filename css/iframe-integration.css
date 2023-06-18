@@ -1,0 +1,8 @@
+.iframe-container {
+    height: auto
+}
+.iframe-details {
+    display: block;
+    width: 100%;
+    border: none;  
+}
